@@ -1,4 +1,4 @@
-# Localizador de Gifs
+# Agenda de Contatos
 
 Este é o meu sexto projeto mobile com Flutter e Dart. Estou fazendo esse curso via Udemy. Acompanhe minha evolução!
 
